@@ -1,0 +1,9 @@
+D:\Projects\VomwdFileDownloader\VomwdFileDownloader\bin\Debug\VomwdFileDownloader.exe.config
+D:\Projects\VomwdFileDownloader\VomwdFileDownloader\bin\Debug\VomwdFileDownloader.exe
+D:\Projects\VomwdFileDownloader\VomwdFileDownloader\bin\Debug\VomwdFileDownloader.pdb
+D:\Projects\VomwdFileDownloader\VomwdFileDownloader\obj\Debug\VomwdFileDownloader.csproj.CoreCompileInputs.cache
+D:\Projects\VomwdFileDownloader\VomwdFileDownloader\obj\Debug\VomwdFileDownloader.exe
+D:\Projects\VomwdFileDownloader\VomwdFileDownloader\obj\Debug\VomwdFileDownloader.pdb
+D:\Projects\VomwdFileDownloader\VomwdFileDownloader\bin\Debug\WinSCP.exe
+D:\Projects\VomwdFileDownloader\VomwdFileDownloader\bin\Debug\WinSCPnet.dll
+D:\Projects\VomwdFileDownloader\VomwdFileDownloader\obj\Debug\VomwdFileDownloader.csprojResolveAssemblyReference.cache
